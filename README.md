@@ -1,5 +1,5 @@
 <h1 align="center">
- ⛯ DVE Stater App ⛯
+ ⛯ DVE Starter App ⛯
 </h1>
 
 <p align="center">
