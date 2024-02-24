@@ -1,0 +1,11 @@
+@divinestar/audio
+@divinestar/binary
+@divinestar/controls
+@divinestar/threads
+@divinestar/utils
+@divinestar/voxelspaces
+@divinevoxel/core
+@divinevoxel/ecs
+
+
+npm install @divinestar/audio @divinestar/binary @divinestar/controls @divinestar/threads @divinestar/utils @divinestar/voxelspaces @divinevoxel/core @divinevoxel/ecs
