@@ -3,9 +3,12 @@
 @divinestar/controls
 @divinestar/threads
 @divinestar/utils
-@divinestar/voxelspaces
 @divinevoxel/core
-@divinevoxel/ecs
+@divinevoxel/foundation
+@divinevoxel/magic
+@divinevoxel/babylon-renderer
+@divinevoxel/three-renderer
+@divinevoxel/quantum-renderer
+@divinevoxel/react-three
 
-
-npm install @divinestar/audio @divinestar/binary @divinestar/controls @divinestar/threads @divinestar/utils @divinestar/voxelspaces @divinevoxel/core @divinevoxel/ecs
+npm install @divinestar/audio @divinestar/binary @divinestar/controls @divinestar/threads @divinestar/utils @divinevoxel/core @divinevoxel/foundation @divinevoxel/magic @divinevoxel/babylon-renderer @divinevoxel/three-renderer @divinevoxel/quantum-renderer @divinevoxel/react-three

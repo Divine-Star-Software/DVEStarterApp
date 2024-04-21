@@ -1,0 +1,18 @@
+{
+    "name": "dve-foundation-starter-app",
+    "version": "0.0.0",
+    "description": "Starter app for Divine Voxel Engine Foundation. ",
+    "main": "index.js",
+    "scripts": {
+      "start": "npx webpack  serve --mode development --env development --https  --config webpack.config.dev.cjs"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "author": "Divine Star Software",
+    "license": "MIT"
+  }
+  
